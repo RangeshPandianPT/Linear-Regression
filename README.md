@@ -59,8 +59,9 @@ jupyter notebook linear_regression_model.ipynb
 
 ## 📷 Visualizations
 
-* `regression_plot.png`: Shows predicted vs actual house prices based on area.
-* `top_features_barplot.png`: Highlights the top 10 features influencing house prices.
+![Image](https://github.com/user-attachments/assets/afc3f81b-711d-4f45-be4b-a7acd8cd9a3a)
+
+![Image](https://github.com/user-attachments/assets/8b1c072b-9678-46e6-a222-1fbd4beaec5e)
 
 ---
 
