@@ -1,6 +1,5 @@
 ### 📄 README.md
 
-```markdown
 # 🏡 Housing Price Prediction using Linear Regression
 
 This project demonstrates the implementation and understanding of **Simple and Multiple Linear Regression** using the `Housing.csv` dataset. We use libraries like `Scikit-learn`, `Pandas`, and `Matplotlib` to analyze and predict housing prices based on various features.
@@ -9,7 +8,7 @@ This project demonstrates the implementation and understanding of **Simple and M
 
 ## 📁 Project Structure
 
-```
+
 
 linear\_regression\_project/
 │
